@@ -1154,4 +1154,4 @@ Delay : 0.835 ns
 Cells : 12
 ```
 
-**Next Project: Day 3**
+**Next Project: 2-to-4 DECODER WITH ENABLE**
